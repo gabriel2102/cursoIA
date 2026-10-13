@@ -19,3 +19,9 @@ Thumbs.db
 
 # Logs
 *.log
+
+# Archivos auxiliares locales
+.codex/
+.agents/
+AGENTS.md
+*.tmp
